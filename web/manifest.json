@@ -1,11 +1,11 @@
 {
-    "name": "task_reminder_app",
-    "short_name": "task_reminder_app",
+    "name": "Task Manager",
+    "short_name": "Task Manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Smart Task Manager - Never miss a task again",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
